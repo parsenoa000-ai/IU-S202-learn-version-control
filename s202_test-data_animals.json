@@ -34,5 +34,11 @@
     "scientificName": "Bison bison",
     "habitat": "North American grasslands and prairies",
     "description": "The largest land mammal in North America, known for its shaggy coat, large shoulder hump, and herd behavior."
+  },
+    {
+    "commonName": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "habitat": "High mountain ranges of Central and South Asia",
+    "description": "A elusive big cat with thick, spotted fur and a long tail that helps it balance on rocky cliffs."
   }
 ]
