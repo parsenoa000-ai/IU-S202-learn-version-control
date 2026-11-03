@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "American Bison",
+    "scientificName": "Bison bison",
+    "habitat": "North American grasslands and prairies",
+    "description": "The largest land mammal in North America, known for its shaggy coat, large shoulder hump, and herd behavior."
   }
 ]
